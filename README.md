@@ -32,6 +32,9 @@ Simular una consulta para mostrar en pantalla: "Ahora mismo hay X personas en el
 -- Proxi reserva es la fecha_inicio mas cercana usando min y validando qu este confirmaada
 -- y null si no hay
 
+<img width="735" height="594" alt="image" src="https://github.com/user-attachments/assets/15a421cf-4e74-4220-bc1a-74207921d88b" />
+
+
 
 
 -- ===================================================================
@@ -44,6 +47,9 @@ Simular una consulta para mostrar en pantalla: "Ahora mismo hay X personas en el
 a este tambien le agregue unos 3 datos que no tenia para ese dia estan justo abajo
 -- a una cosa fue que por practicidad use una fecha vieja
 
+<img width="735" height="594" alt="image" src="https://github.com/user-attachments/assets/b5b5173d-6243-442b-a196-fc00647ab617" />
+
+
 -- ===================================================================
 -- Consulta
 -- ===================================================================
@@ -53,3 +59,5 @@ a este tambien le agregue unos 3 datos que no tenia para ese dia estan justo aba
 -- y si no en plural y ya  el resto condicion pues estado exitoso que la hora de salir sea null
 -- y que cuando entro pues sea menorque ahora
 -- use tambien datos del insert anteror
+
+<img width="735" height="594" alt="image" src="https://github.com/user-attachments/assets/aaa11eca-df52-44df-9024-4cfc4bb52dcf" />
