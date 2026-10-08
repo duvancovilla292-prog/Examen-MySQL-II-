@@ -42,6 +42,7 @@ Simular una consulta para mostrar en pantalla: "Ahora mismo hay X personas en el
 -- tambien guarde la fecha de hoy con CURDATE() en una variable y en otra lo mismo
 -- pero para dentrode un dia para lass validaciones en sub consultas 
 a este tambien le agregue unos 3 datos que no tenia para ese dia estan justo abajo
+-- a una cosa fue que por practicidad use una fecha vieja
 
 -- ===================================================================
 -- Consulta

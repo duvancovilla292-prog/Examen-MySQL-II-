@@ -42,7 +42,7 @@ SELECT espacio, estado, proxima_reserva FROM VW_EstadoEspacios ORDER BY espacio;
 -- pues lo mas facil fue hacer sud consultas dentro de una mas grande
 -- tambien guarde la fecha de hoy con CURDATE() en una variable y en otra lo mismo
 -- pero para dentrode un dia para lass validaciones en sub consultas 
--- 
+-- a una cosa fue que por practicidad use una fecha vieja
 
 DROP PROCEDURE IF EXISTS sp_GenerarReporteDiario;
 
